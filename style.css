@@ -1,0 +1,10 @@
+.header {
+  border-style:dotted;
+  background-color: #260de3;
+  color:red;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  text-decoration-line: underline;
+}
