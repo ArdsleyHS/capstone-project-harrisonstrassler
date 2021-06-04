@@ -8,3 +8,9 @@
   text-align: center;
   text-decoration-line: underline;
 }
+.main_image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
