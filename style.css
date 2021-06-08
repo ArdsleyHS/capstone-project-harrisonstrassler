@@ -26,6 +26,9 @@
   overflow-x: hidden;
   padding-top: 20px;
 }
+.content {
+  background-color: #000000;
+}
 
 /* Page content */
 .main {
