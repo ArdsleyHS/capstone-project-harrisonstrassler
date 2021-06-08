@@ -15,7 +15,13 @@
   width: 50%;
   height: auto;
 }
-.logos {
-  width: 30%;
-  height: auto;
+.footer {
+  border-style:solid;
+  background-color: #000000;
+  color:#FFFFFF;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  text-decoration-line: underline;
 }
