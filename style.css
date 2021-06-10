@@ -25,3 +25,8 @@
   text-align: center;
   text-decoration-line: underline;
 }
+.car_models {
+    display: inline-block;
+    margin-right:5px;
+    border:1px solid #ccc;
+}
