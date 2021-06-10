@@ -28,12 +28,8 @@
 .car_models {
   width: 25%;
   height: auto;
-  border-style:solid;
-  background-color: #000000;
-  color:#FFFFFF;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  text-decoration-line: underline;
+  display: inline-block;
+  float:left;
+  margin: 0px;
+  padding: 0px;
 }
