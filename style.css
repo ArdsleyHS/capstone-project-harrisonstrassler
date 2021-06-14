@@ -57,10 +57,13 @@
     text-align: center;
     text-decoration-line: underline;
   }
-.row {
-  display: flex;
-}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
 .column {
-  flex: 50%;
+  float: left;
+  width: 33.33%;
   padding: 5px;
 }
