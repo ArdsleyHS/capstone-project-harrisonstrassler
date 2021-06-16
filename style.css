@@ -63,8 +63,8 @@
   .column {
     flex: 33.3%;
     padding: 5px;
-    height: 100%;
-    width: auto;
+    height: 170px;
+    width: 380px;
   }
 .title {
   color:#FFFFFF;
