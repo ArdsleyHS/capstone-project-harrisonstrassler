@@ -52,10 +52,9 @@
     background-color: #000000;
     color:#FFFFFF;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
     text-align: center;
     text-decoration-line: underline;
+    width:100%;
   }
   .row {
     display: flex;
