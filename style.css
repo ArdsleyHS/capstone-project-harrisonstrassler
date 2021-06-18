@@ -1,5 +1,4 @@
 .header {
-  border-style:solid;
   background-color: #000000;
   color:#FFFFFF;
   display: block;
@@ -16,7 +15,6 @@
   height: auto;
 }
 .footer {
-  border-style:solid;
   background-color: #000000;
   color:#FFFFFF;
   display: block;
@@ -28,7 +26,6 @@
 .car_models {
   width: 25%;
   height: auto;
-  border-style:solid;
   background-color: #000000;
   color:#FFFFFF;
   display: block;
@@ -38,7 +35,6 @@
   text-decoration-line: underline;
 }
 #poll {
-  border-style:solid;
   background-color: #000000;
   color:#FFFFFF;
   display: block;
@@ -48,7 +44,6 @@
   text-decoration-line: underline;
   }
   .content {
-    border-style:solid;
     background-color: #000000;
     color:#FFFFFF;
     display: block;
@@ -69,7 +64,6 @@
   color:#FFFFFF;
 }
 .sub_footer {
-  border-style:solid;
   background-color: #000000;
   color:#FFFFFF;
   display: block;
