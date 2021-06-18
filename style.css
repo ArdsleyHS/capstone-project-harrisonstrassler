@@ -68,3 +68,13 @@
 .title {
   color:#FFFFFF;
 }
+.sub_footer {
+  border-style:solid;
+  background-color: #000000;
+  color:#FFFFFF;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  text-decoration-line: underline;
+}
